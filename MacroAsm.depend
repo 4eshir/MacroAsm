@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544347583 source:d:\university\macroasm\main.cpp
+	"CommonFunctions.h"
+	"MacroAsmFunctions.h"
+
+1544347478 d:\university\macroasm\include\commonfunctions.h
+	<vector>
+	<string>
+	<fstream>
+	<regex>
+
+1544376068 d:\university\macroasm\include\macroasmfunctions.h
+	<regex>
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+

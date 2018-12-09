@@ -1,0 +1,8 @@
+expr MACRO <a1,a2>
+add a1 a2
+mul a1 a2
+ENDM
+dec_xchg MACRO <r1,r2>
+xchg r1 r2
+dec r1
+ENDM

@@ -1,0 +1,11 @@
+INCLUDE <incFile.txt>
+EQU counter=1
+EQU temp=2
+EQU reg1=5
+EQU reg2=20
+REP 3
+expr <temp,counter>
+print temp
+ENDREP
+dec_xchg <reg1,reg2>
+SUM reg1 reg2
